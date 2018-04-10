@@ -1,0 +1,65 @@
+{
+  "name": "couchbase-promises",
+  "longName": "Couchbase Promises",
+  "description": "An A+ Promises wrapper for the Couchbase SDK.",
+  "version": "1.0.1",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "couchbase": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.0",
+    "gulp-istanbul": "^0.10.2",
+    "gulp-jsvalidate": "^2.1.0",
+    "gulp-mocha": "^2.2.0",
+    "istanbul": "^0.4.0",
+    "mocha": "^2.3.3"
+  },
+  "keywords": [
+    "couchbase",
+    "promises",
+    "bluebird",
+    "data",
+    "nosql"
+  ],
+  "license": "MIT",
+  "main": "./lib/couchbase",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsfields/couchbase-promises.git"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test"
+  },
+  "gitHead": "a837eb0e38b526e6cf8a68f09254ac92f4e7ea49",
+  "bugs": {
+    "url": "https://github.com/dsfields/couchbase-promises/issues"
+  },
+  "homepage": "https://github.com/dsfields/couchbase-promises#readme",
+  "_id": "couchbase-promises@1.0.1",
+  "_shasum": "7230c3850406952d26930c58667c001a63e9ab85",
+  "_from": "couchbase-promises@>=1.0.1 <2.0.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "dsfields",
+    "email": "daniel.s.fields@gmail.com"
+  },
+  "dist": {
+    "shasum": "7230c3850406952d26930c58667c001a63e9ab85",
+    "tarball": "http://registry.npmjs.org/couchbase-promises/-/couchbase-promises-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dsfields",
+      "email": "daniel.s.fields@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/couchbase-promises/-/couchbase-promises-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
